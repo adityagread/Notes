@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hint_word">Note...</string>
+    <string name="button_save">Add</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="clear_all_data">Clear All Data</string>
+</resources>
